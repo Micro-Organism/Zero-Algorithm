@@ -1,7 +1,5 @@
 package com.zero.algorithm.leetcode;
 
-import java.util.Arrays;
-
 /**
  * @author rabbit
  * @description 1.两数之和
