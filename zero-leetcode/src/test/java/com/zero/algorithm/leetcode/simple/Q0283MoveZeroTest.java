@@ -1,11 +1,12 @@
-package com.zero.algorithm.leetcode;
+package com.zero.algorithm.leetcode.simple;
 
 import org.junit.jupiter.api.Test;
 
-import static com.zero.algorithm.leetcode.Q0283MoveZero.moveZeroes02;
+import static com.zero.algorithm.leetcode.simple.Q0283MoveZero.moveZeroes02;
 
 /**
  * @author rabbit
+ * @level  Simple
  * @description
  * @createTime 2024/4/16 下午6:13
  */

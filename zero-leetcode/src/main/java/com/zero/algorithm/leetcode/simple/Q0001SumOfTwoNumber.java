@@ -1,7 +1,8 @@
-package com.zero.algorithm.leetcode;
+package com.zero.algorithm.leetcode.simple;
 
 /**
  * @author rabbit
+ * @level  Simple
  * @description 1.两数之和
  * @createTime 2024/4/12 下午1:58
  */
