@@ -2,17 +2,14 @@ package com.zero.algorithm.leetcode;
 
 import org.junit.jupiter.api.Test;
 
-import java.util.Arrays;
-
-import static com.zero.algorithm.leetcode.Q283MoveZero.moveZeroes;
-import static com.zero.algorithm.leetcode.Q283MoveZero.moveZeroes02;
+import static com.zero.algorithm.leetcode.Q0283MoveZero.moveZeroes02;
 
 /**
  * @author rabbit
  * @description
  * @createTime 2024/4/16 下午6:13
  */
-public class Q283MoveZeroTest {
+public class Q0283MoveZeroTest {
 
     @Test
     void test() {
