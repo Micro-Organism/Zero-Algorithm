@@ -8,7 +8,7 @@ import java.util.*;
  * @description 给定一个字符串 s ，请你找出其中不含有重复字符的 最长子串的长度。
  * @createTime 2024/4/17 下午2:30
  */
-public class Q0003LengthOfLongestSubstring {
+public class Q00003LengthOfLongestSubstring {
 
     /**
      * 方法一

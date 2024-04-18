@@ -2,7 +2,7 @@ package com.zero.algorithm.leetcode.medium;
 
 import org.junit.jupiter.api.Test;
 
-import static com.zero.algorithm.leetcode.medium.Q0003LengthOfLongestSubstring.*;
+import static com.zero.algorithm.leetcode.medium.Q00003LengthOfLongestSubstring.*;
 
 /**
  * @author rabbit
@@ -10,7 +10,7 @@ import static com.zero.algorithm.leetcode.medium.Q0003LengthOfLongestSubstring.*
  * @description
  * @createTime 2024/4/17 下午2:49
  */
-public class Q0003LengthOfLongestSubstringTest {
+public class Q00003LengthOfLongestSubstringTest {
 
     @Test
     void test01() {
