@@ -3,12 +3,11 @@ package com.zero.algorithm.leetcode.simple;
 /**
  * @author rabbit
  * @level Simple
- * @description 相交链表
- * 给你两个单链表的头节点 headA 和 headB ，请你找出并返回两个单链表相交的起始节点。
- * 如果两个链表不存在相交节点，返回 null 。
- * @createTime 2024/4/17 下午5:00
+ * @description 反转链表
+ * 给你单链表的头节点 head ，请你反转链表，并返回反转后的链表。
+ * @createTime 2024/4/17 下午5:04
  */
-public class Q0160GetIntersectionNode {
+public class Q00206ReverseList {
 
     /**
      *  Definition for singly-linked list.
@@ -30,7 +29,7 @@ public class Q0160GetIntersectionNode {
         }
     }
 
-    public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
+    public ListNode reverseList(ListNode head) {
 
         ListNode listNode = new ListNode();
         return listNode;

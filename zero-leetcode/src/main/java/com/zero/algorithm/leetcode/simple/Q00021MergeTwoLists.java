@@ -3,10 +3,10 @@ package com.zero.algorithm.leetcode.simple;
 /**
  * @author rabbit
  * @level Simple
- * @description 环形链表
- * @createTime 2024/4/17 下午4:58
+ * @description 合并两个有序链表
+ * @createTime 2024/4/17 下午4:38
  */
-public class Q0141HasCycle {
+public class Q00021MergeTwoLists {
 
     /**
      *  Definition for singly-linked list.
@@ -28,8 +28,9 @@ public class Q0141HasCycle {
         }
     }
 
-    public boolean hasCycle(ListNode head) {
-        return true;
+    public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
+        ListNode listNode = new ListNode();
+        return listNode;
     }
 
 }

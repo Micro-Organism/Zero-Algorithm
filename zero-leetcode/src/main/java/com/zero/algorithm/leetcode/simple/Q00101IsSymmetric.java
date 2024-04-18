@@ -3,18 +3,16 @@ package com.zero.algorithm.leetcode.simple;
 /**
  * @author rabbit
  * @level Simple
- * @description 二叉树的直径
- * 给你一棵二叉树的根节点，返回该树的 直径 。
- * 二叉树的 直径 是指树中任意两个节点之间最长路径的 长度 。这条路径可能经过也可能不经过根节点 root 。
- * 两节点之间路径的 长度 由它们之间边数表示。
- * @createTime 2024/4/17 下午5:15
+ * @description 对称二叉树
+ * 给你一个二叉树的根节点 root ， 检查它是否轴对称。
+ * @createTime 2024/4/17 下午4:48
  */
-public class Q0543DiameterOfBinaryTree {
+public class Q00101IsSymmetric {
 
     /**
      * Definition for a binary tree node.
      */
-    class TreeNode {
+    public class TreeNode {
         int val;
         TreeNode left;
         TreeNode right;
@@ -33,7 +31,8 @@ public class Q0543DiameterOfBinaryTree {
         }
     }
 
-    public int diameterOfBinaryTree(TreeNode root) {
-        return 0;
+    public boolean isSymmetric(TreeNode root) {
+        return true;
     }
+
 }

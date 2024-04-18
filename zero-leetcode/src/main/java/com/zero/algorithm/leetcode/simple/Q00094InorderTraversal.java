@@ -1,18 +1,22 @@
 package com.zero.algorithm.leetcode.simple;
 
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  * @author rabbit
  * @level Simple
- * @description 对称二叉树
- * 给你一个二叉树的根节点 root ， 检查它是否轴对称。
- * @createTime 2024/4/17 下午4:48
+ * @description 二叉树的中序遍历
+ * 给定一个二叉树的根节点 root ，返回 它的 中序 遍历 。
+ * @createTime 2024/4/17 下午4:42
  */
-public class Q0101IsSymmetric {
+
+public class Q00094InorderTraversal {
 
     /**
      * Definition for a binary tree node.
      */
-    public class TreeNode {
+    class TreeNode {
         int val;
         TreeNode left;
         TreeNode right;
@@ -31,8 +35,12 @@ public class Q0101IsSymmetric {
         }
     }
 
-    public boolean isSymmetric(TreeNode root) {
-        return true;
+    public List<Integer> inorderTraversal(TreeNode root) {
+
+        List<Integer> result = new ArrayList<>();
+
+        return result;
+
     }
 
 }

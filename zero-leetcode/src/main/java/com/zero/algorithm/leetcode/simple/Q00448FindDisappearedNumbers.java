@@ -10,7 +10,7 @@ import java.util.List;
  * 请你找出所有在 [1, n] 范围内但没有出现在 nums 中的数字，并以数组的形式返回结果。
  * @createTime 2024/4/17 下午5:13
  */
-public class Q0448FindDisappearedNumbers {
+public class Q00448FindDisappearedNumbers {
 
     public List<Integer> findDisappearedNumbers(int[] nums) {
         return null;

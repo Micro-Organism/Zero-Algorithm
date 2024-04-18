@@ -9,7 +9,7 @@ package com.zero.algorithm.leetcode.simple;
  * 返回你可以从这笔交易中获取的最大利润。如果你不能获取任何利润，返回 0 。
  * @createTime 2024/4/17 下午4:55
  */
-public class Q0121MaxProfit {
+public class Q00121MaxProfit {
 
     public int maxProfit(int[] prices) {
         return 0;

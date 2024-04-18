@@ -11,7 +11,7 @@ package com.zero.algorithm.leetcode.simple;
  * 3.每个右括号都有一个对应的相同类型的左括号。
  * @createTime 2024/4/17 下午4:35
  */
-public class Q0020IsValid {
+public class Q00020IsValid {
 
     public boolean isValid(String s) {
 

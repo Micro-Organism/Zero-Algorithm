@@ -1,17 +1,12 @@
 package com.zero.algorithm.leetcode.simple;
 
-import java.util.ArrayList;
-import java.util.List;
-
 /**
  * @author rabbit
  * @level Simple
- * @description 二叉树的中序遍历
- * 给定一个二叉树的根节点 root ，返回 它的 中序 遍历 。
- * @createTime 2024/4/17 下午4:42
+ * @description 翻转二叉树
+ * @createTime 2024/4/17 下午5:08
  */
-
-public class Q0094InorderTraversal {
+public class Q00226InvertTree {
 
     /**
      * Definition for a binary tree node.
@@ -35,11 +30,10 @@ public class Q0094InorderTraversal {
         }
     }
 
-    public List<Integer> inorderTraversal(TreeNode root) {
+    public TreeNode invertTree(TreeNode root) {
 
-        List<Integer> result = new ArrayList<>();
-
-        return result;
+        TreeNode treeNode = new TreeNode();
+        return treeNode;
 
     }
 

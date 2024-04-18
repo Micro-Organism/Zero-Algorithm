@@ -8,7 +8,7 @@ package com.zero.algorithm.leetcode.simple;
  * 你可以假设数组是非空的，并且给定的数组总是存在多数元素。
  * @createTime 2024/4/17 下午5:02
  */
-public class Q0169MajorityElement {
+public class Q00169MajorityElement {
 
     public int majorityElement(int[] nums) {
         return 0;

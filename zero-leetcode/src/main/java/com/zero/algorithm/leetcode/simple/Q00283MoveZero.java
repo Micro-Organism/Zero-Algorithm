@@ -9,7 +9,7 @@ import java.util.Arrays;
  * 请注意 ，必须在不复制数组的情况下原地对数组进行操作。
  * @createTime 2024/4/16 下午6:04
  */
-public class Q0283MoveZero {
+public class Q00283MoveZero {
 
     public static void moveZeroes(int[] nums) {
         int number = 0;

@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;
 
-import static com.zero.algorithm.leetcode.simple.Q0001SumOfTwoNumber.twoSum;
+import static com.zero.algorithm.leetcode.simple.Q00001SumOfTwoNumber.twoSum;
 
 /**
  * @author rabbit
@@ -12,7 +12,7 @@ import static com.zero.algorithm.leetcode.simple.Q0001SumOfTwoNumber.twoSum;
  * @description 1.两数之和
  * @createTime 2024/4/12 下午1:58
  */
-public class Q0001SumOfTwoNumberTest {
+public class Q00001SumOfTwoNumberTest {
 
     @Test
     void test() {

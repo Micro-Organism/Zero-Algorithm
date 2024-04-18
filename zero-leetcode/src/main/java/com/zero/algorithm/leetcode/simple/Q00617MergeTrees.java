@@ -11,7 +11,7 @@ package com.zero.algorithm.leetcode.simple;
  * 注意: 合并过程必须从两个树的根节点开始。
  * @createTime 2024/4/17 下午5:17
  */
-public class Q0617MergeTrees {
+public class Q00617MergeTrees {
 
     /**
      * Definition for a binary tree node.

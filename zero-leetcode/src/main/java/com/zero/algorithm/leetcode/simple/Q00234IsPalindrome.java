@@ -3,11 +3,10 @@ package com.zero.algorithm.leetcode.simple;
 /**
  * @author rabbit
  * @level Simple
- * @description 反转链表
- * 给你单链表的头节点 head ，请你反转链表，并返回反转后的链表。
- * @createTime 2024/4/17 下午5:04
+ * @description 回文链表
+ * @createTime 2024/4/17 下午5:10
  */
-public class Q0206ReverseList {
+public class Q00234IsPalindrome {
 
     /**
      *  Definition for singly-linked list.
@@ -29,10 +28,8 @@ public class Q0206ReverseList {
         }
     }
 
-    public ListNode reverseList(ListNode head) {
-
-        ListNode listNode = new ListNode();
-        return listNode;
+    public boolean isPalindrome(ListNode head) {
+        return true;
     }
 
 }
