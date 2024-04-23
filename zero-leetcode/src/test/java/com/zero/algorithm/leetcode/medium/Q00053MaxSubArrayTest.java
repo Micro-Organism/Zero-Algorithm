@@ -14,7 +14,7 @@ public class Q00053MaxSubArrayTest {
     @Test
     void test01() {
         int[] nums = new int[]{-2,1,-3,4,-1,2,1,-5,4};
-        maxSubArray01(nums)
+        int res = maxSubArray01(nums);
         System.out.println(res);
     }
 
